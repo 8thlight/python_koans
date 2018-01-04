@@ -13,11 +13,11 @@ koans.about_true_and_false.AboutTrueAndFalse
 koans.about_sets.AboutSets
 koans.about_exceptions.AboutExceptions
 koans.about_comprehension.AboutComprehension
-koans.about_lambdas.AboutLambdas
 koans.about_classes.AboutClasses
-koans.about_with_statements.AboutWithStatements
 koans.about_inheritance.AboutInheritance
 koans.about_multiple_inheritance.AboutMultipleInheritance
+koans.about_lambdas.AboutLambdas
+koans.about_with_statements.AboutWithStatements
 koans.about_scope.AboutScope
 koans.about_modules.AboutModules
 koans.about_packages.AboutPackages
