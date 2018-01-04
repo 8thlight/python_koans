@@ -16,11 +16,6 @@ koans.about_comprehension.AboutComprehension
 koans.about_lambdas.AboutLambdas
 koans.about_classes.AboutClasses
 koans.about_with_statements.AboutWithStatements
-koans.about_monkey_patching.AboutMonkeyPatching
-koans.about_dice_project.AboutDiceProject
-koans.about_method_bindings.AboutMethodBindings
-koans.about_decorating_with_functions.AboutDecoratingWithFunctions
-koans.about_decorating_with_classes.AboutDecoratingWithClasses
 koans.about_inheritance.AboutInheritance
 koans.about_multiple_inheritance.AboutMultipleInheritance
 koans.about_scope.AboutScope
