@@ -10,8 +10,8 @@ koans.about_dictionaries.AboutDictionaries
 koans.about_string_manipulation.AboutStringManipulation
 koans.about_tuples.AboutTuples
 koans.about_control_statements.AboutControlStatements
-kkoans.about_classes.AboutClasses
-oans.about_methods.AboutMethods
+koans.about_classes.AboutClasses
+koans.about_methods.AboutMethods
 koans.about_inheritance.AboutInheritance
 koans.about_multiple_inheritance.AboutMultipleInheritance
 koans.about_exceptions.AboutExceptions
